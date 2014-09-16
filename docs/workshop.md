@@ -223,7 +223,7 @@ Duration: 12 Slots a 30 Minutes including breaks = 6 hours
 
 ## Opening Day 2
 
-> Presenting the second Part of the Slides regarding Pairing Methods and explaining the Goals of the day. Additionally the discussion about forced switches and switch-times is started. Pairing will be done on real life tasks and commits is the thing we aim for from now on. 
+> Presenting the second Part of the Pairing Methods and explaining the Goals of the day. Additionally the discussion about forced switches and switch-times is started. Pairing will be done on real life tasks and commits is the thing we aim for from now on. 
 
 * Duration 25 Minutes
 
