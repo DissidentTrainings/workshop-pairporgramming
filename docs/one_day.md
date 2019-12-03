@@ -80,8 +80,7 @@ Duration: 12 Slots a 30 Minutes including breaks = 6 hours
 
 > The trait of extraversion-introversion is a central dimension of human personality theories. In Western popular usage, Extraverts (also spelled extroverts[1]) are thought to be gregarious, assertive, and interested in seeking out external stimulus. Introverts, in contrast, are seen as introspective, quiet and less sociable. They are not necessarily loners but they tend to have a smaller number of friends. Introversion does not describe social discomfort but rather social preference: an introvert may not be shy but may merely prefer fewer social activities.
 
-* Review the results of the MBTI test
-* Explain the MBTI test
+* As people to outline their extravert inovert scala
 * Let everybody decide for himself how much of an extra-/introvert she/he is
 * Discuss the possible combinations
   * extra-extra, extra-intro, intro-intro
@@ -136,19 +135,12 @@ Duration: 12 Slots a 30 Minutes including breaks = 6 hours
 ### Rules
 
 
-* Split into Teams up to 5 People
-* Read the statement and decide if it is a myth or a fact
-* One Team argues if the presented statement  is a Myth or a Fact
-  * If the Answer is right: One point is awarded
-* The next team can present another (different) answer
-  * If the Answer is right: 2 points are awarded
-* The start position switches to the next Team
-* The Team with the most points wins
-* Playtime 25 Minutes
+* Myths are placed as base assumptions of the workshop 
+* get remarks by particiopants as post its 
+* remarks get commented on all the time 
 
 ### Material
 
-* Beamer
 * Slides of the [Pairing Myth or Fact Game](https://github.com/sebs/journeymans/tree/master/slides/pairingmythfact)
 
 ## Build Pairing-workspaces
