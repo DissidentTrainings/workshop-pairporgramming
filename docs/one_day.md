@@ -5,7 +5,7 @@
 
 The pairing workshop aims to teach the nuts, bolts and caveats of pair programming. A team will interact to get a grip of the following contents and concepts.
 
-# Day 1: Theory
+# Theory to Practice
 
 Duration: 12 Slots a 30 Minutes including breaks = 6 hours
 
