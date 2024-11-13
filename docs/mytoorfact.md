@@ -1,6 +1,6 @@
 .center.middle
 # Myth & Fact - Pairprogramming
-## by [Sebastian Schürmann @sschuermann](http://twitter.com/sschuermann) 
+## by Sebastian Schürmann
 ---
 
 # Rules 
