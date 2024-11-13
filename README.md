@@ -13,5 +13,10 @@ This workshopsto teach the nuts, bolts and caveats of pair programming. A team w
 ## History
 
 * 2011 - Initial Idea
-* 2012 - The Waltz - Travel and Test 
+* 2012-2024 - 15 workshops held
 * 2024 - Update of Agenda and material
+
+## Sources and Inspirations 
+
+* '7 Habits and Synergies' of Pairprogramming are to be found in 'Pairprogramming Illuminated'. This book sparked the idea to create a workshop around the topic. Laurie Williams and Robert Kessler did an awesome job. The book is out of print these days. Trent University was so nice to pput it on archive.org [link](https://archive.org/details/pairprogrammingi0000will)
+* The Pair draw exercise is credited to [Industrial Logic](https://www.industriallogic.com/)
